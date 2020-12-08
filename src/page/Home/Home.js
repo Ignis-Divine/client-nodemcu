@@ -1,10 +1,14 @@
 import React from "react";
 import "./Home.scss"
+import BasicLayout from "../../layout/BasicLayout";
+import { Button, Spinner } from "react-bootstrap";
 
 export default function Home() {
     return(
-        <div>
-            <h2>estamos en HOME xdxdxd</h2>
-        </div>
+        <BasicLayout>
+            <Button>
+
+            </Button>
+        </BasicLayout>
     )
 }
