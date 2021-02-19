@@ -21,7 +21,7 @@ En el directorio del proyecto, puede ejecutar:
 ### `yarn dev`
 
 Ejecuta la aplicación en modo de desarrollo.
-Abra [http: // localhost: 3000] (http: // localhost: 3000) para verlo en el navegador.
+Abra [http: // localhost: 3000](http: // localhost: 3000) para verlo en el navegador.
 
 La página se volverá a cargar si realiza modificaciones.
 También verá cualquier error de pelusa en la consola.
